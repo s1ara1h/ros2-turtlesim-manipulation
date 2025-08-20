@@ -73,6 +73,4 @@ Turtle drawing a white path, demonstrating real-time control.
 - ✅ Real-time robot control
 - ✅ System introspection tools
 
----
 
-**Built with ❤️ for ROS 2 Learning | Happy Coding! 🚀**
